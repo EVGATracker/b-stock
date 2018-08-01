@@ -47,7 +47,6 @@
 {'value': 0, 'item_number': '110-BQ-0500-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=110-BQ-0500-RX', 'item_name': 'EVGA 500 BQ, 80+ BRONZE 500W, Semi Modular, FDB Fan, 1 Year Warranty, Power Supply 110-BQ-0500-RX', 'price': 44.99}
 {'value': 0, 'item_number': '01G-P3-N988-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-N988-RX', 'item_name': 'EVGA GeForce 9800 GT HDMI', 'price': 44.99}
 {'value': 0, 'item_number': '02G-P3-2724-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-2724-RX', 'item_name': 'EVGA GeForce GT 720 2GB', 'price': 43.99}
-{'value': 0, 'item_number': '120-G1-0750-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=120-G1-0750-RX', 'item_name': 'EVGA SuperNOVA 750 G1, 80+ GOLD 750W, Fully Modular, 1 Year Warranty, Power Supply 120-G1-0750-RX', 'price': 35.0}
 {'value': 0, 'item_number': '512-A8-N403-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-A8-N403-RX', 'item_name': 'e-GeForce 6200 AGP', 'price': 29.99}
 {'value': 0, 'item_number': '100-W1-0600-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=100-W1-0600-RX', 'item_name': 'EVGA 600 W1, 80+ WHITE 600W, 1 Year Warranty, Power Supply 100-W1-0600-RX', 'price': 29.99}
 {'value': 0, 'item_number': '02G-P3-3717-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-3717-RX', 'item_name': 'EVGA GeForce GT 710, 02G-P3-3717-RX, 2GB GDDR5, Single Slot', 'price': 29.99}
