@@ -98,4 +98,3 @@
 {'item_name': 'e-GeForce 6200 AGP', 'item_number': '256-A8-N401-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=256-A8-N401-RX', 'value': 0, 'price': 19.99}
 {'item_name': 'EVGA 400 N1, 400W, 1 Year Warranty, Power Supply 100-N1-0400-RX', 'item_number': '100-N1-0400-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=100-N1-0400-RX', 'value': 0, 'price': 19.99}
 {'item_name': 'EVGA GeForce GT 610', 'item_number': '01G-P3-2616-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-2616-RX', 'value': 0, 'price': 19.99}
-{'item_name': 'EVGA GeForce GT 520 2048MB', 'item_number': '02G-P3-1529-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-1529-RX', 'value': 0, 'price': 7.99}
