@@ -51,7 +51,6 @@
 {'item_name': 'e-GeForce 6200 AGP', 'item_number': '512-A8-N403-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-A8-N403-RX', 'value': 0, 'price': 29.99}
 {'item_name': 'EVGA 600 W1, 80+ WHITE 600W, 1 Year Warranty, Power Supply 100-W1-0600-RX', 'item_number': '100-W1-0600-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=100-W1-0600-RX', 'value': 0, 'price': 29.99}
 {'item_name': 'EVGA 500 W1, 80+ WHITE 500W, 1 Year Warranty, Power Supply 100-W1-0500-RX', 'item_number': '100-W1-0500-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=100-W1-0500-RX', 'value': 0, 'price': 29.99}
-{'item_name': 'EVGA GeForce GT 710, 02G-P3-3717-RX, 2GB GDDR5, Single Slot', 'item_number': '02G-P3-3717-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-3717-RX', 'value': 0, 'price': 29.99}
 {'item_name': 'EVGA GeForce GT 710 2GB (Single Slot, Dual DVI)', 'item_number': '02G-P3-2717-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-2717-RX', 'value': 0, 'price': 29.99}
 {'item_name': 'EVGA GeForce GT 710 2GB (Single Slot, Low Profile)', 'item_number': '02G-P3-2713-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-2713-RX', 'value': 0, 'price': 29.99}
 {'item_name': 'VGA,GT710,GDDR5,1G,VGA+HDMI+DVI-D', 'item_number': '01G-P3-3710-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-3710-RX', 'value': 0, 'price': 29.99}
