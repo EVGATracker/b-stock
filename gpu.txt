@@ -105,6 +105,5 @@
 {'item_name': 'e-GeForce 6200 PCI', 'item_number': '512-P1-N402-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P1-N402-RX', 'value': 0, 'price': 19.99}
 {'item_name': 'e-GeForce 6200 AGP', 'item_number': '256-A8-N401-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=256-A8-N401-RX', 'value': 0, 'price': 19.99}
 {'item_name': 'EVGA 400 N1, 400W, 1 Year Warranty, Power Supply 100-N1-0400-RX', 'item_number': '100-N1-0400-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=100-N1-0400-RX', 'value': 0, 'price': 19.99}
-{'item_name': 'EVGA GeForce GT 740 4GB Superclocked', 'item_number': '04G-P4-3748-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-3748-RX', 'value': 0, 'price': 19.99}
 {'item_name': 'EVGA GeForce GT 610', 'item_number': '01G-P3-2616-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-2616-RX', 'value': 0, 'price': 19.99}
 {'item_name': 'e-GeForce 8400 GS', 'item_number': '512-P3-1301-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P3-1301-RX', 'value': 0, 'price': 14.99}
