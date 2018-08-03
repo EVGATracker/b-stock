@@ -3,6 +3,7 @@
 {'item_name': 'EVGA GeForce GTX 970 GAMING ACX 2.0', 'item_number': '04G-P4-2972-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-2972-RX', 'value': 2.74, 'price': 189.99}
 {'item_name': 'EVGA GeForce GTX 970 SSC GAMING ACX 2.0', 'item_number': '04G-P4-3979-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-3979-RX', 'value': 2.6, 'price': 199.99}
 {'item_name': 'EVGA GeForce GTX 970 SSC GAMING ACX 2.0+', 'item_number': '04G-P4-3975-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-3975-RX', 'value': 2.6, 'price': 199.99}
+{'item_name': 'EVGA GeForce GTX 970 GAMING ACX 2.0+', 'item_number': '04G-P4-3973-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-3973-RX', 'value': 2.6, 'price': 199.99}
 {'item_name': 'EVGA GeForce GTX 970 SC GAMING ACX 2.0', 'item_number': '04G-P4-2974-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-2974-RX', 'value': 2.6, 'price': 199.99}
 {'item_name': 'EVGA GeForce GTX 970 SC GAMING', 'item_number': '04G-P4-1972-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-1972-RX', 'value': 2.6, 'price': 199.99}
 {'item_name': 'EVGA GeForce GTX 1060 GAMING, 06G-P4-6161-RX, 6GB GDDR5, ACX 2.0 (Single Fan)', 'item_number': '06G-P4-6161-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=06G-P4-6161-RX', 'value': 2.32, 'price': 249.99}
