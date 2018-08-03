@@ -1,4 +1,5 @@
 {'item_name': 'EVGA GeForce GTX 1060 GAMING, 03G-P4-6160-RX, 3GB GDDR5, ACX 2.0 (Single Fan)', 'item_number': '03G-P4-6160-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=03G-P4-6160-RX', 'value': 3.22, 'price': 179.99}
+{'item_name': 'EVGA GeForce GTX 1060 SC GAMING, 06G-P4-6163-RX, 6GB GDDR5, ACX 2.0 (Single Fan)', 'item_number': '06G-P4-6163-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=06G-P4-6163-RX', 'value': 2.76, 'price': 209.99}
 {'item_name': 'EVGA GeForce GTX 1060 SC GAMING, 03G-P4-6162-RX, 3GB GDDR5, ACX 2.0 (Single Fan)', 'item_number': '03G-P4-6162-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=03G-P4-6162-RX', 'value': 2.76, 'price': 209.99}
 {'item_name': 'EVGA GeForce GTX 970 GAMING ACX 2.0', 'item_number': '04G-P4-2972-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-2972-RX', 'value': 2.74, 'price': 189.99}
 {'item_name': 'EVGA GeForce GTX 970 SSC GAMING ACX 2.0', 'item_number': '04G-P4-3979-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-3979-RX', 'value': 2.6, 'price': 199.99}
@@ -16,6 +17,7 @@
 {'item_name': 'EVGA GeForce GTX 1080 SC GAMING, 08G-P4-6183-RX, 8GB GDDR5X, ACX 3.0 & LED', 'item_number': '08G-P4-6183-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=08G-P4-6183-RX', 'value': 1.98, 'price': 519.99}
 {'item_name': 'EVGA GeForce GTX 1060 SSC GAMING, 06G-P4-6267-RX, 6GB GDDR5, ACX 3.0 & LED', 'item_number': '06G-P4-6267-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=06G-P4-6267-RX', 'value': 1.97, 'price': 294.99}
 {'item_name': 'EVGA GeForce GTX 1080 Ti FOUNDERS EDITION, 11G-P4-6390, 11GB GDDR5X', 'item_number': '11G-P4-6390-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=11G-P4-6390-RX', 'value': 1.96, 'price': 679.99}
+{'item_name': 'EVGA GeForce GTX 980 Ti FTW GAMING ACX 2.0+', 'item_number': '06G-P4-4996-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=06G-P4-4996-RX', 'value': 1.95, 'price': 399.99}
 {'item_name': 'EVGA GeForce GTX 980 Ti SC+ GAMING ACX 2.0+', 'item_number': '06G-P4-4995-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=06G-P4-4995-RX', 'value': 1.95, 'price': 399.99}
 {'item_name': 'EVGA GeForce GTX 970 FTW GAMING ACX 2.0', 'item_number': '04G-P4-2978-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-2978-RX', 'value': 1.93, 'price': 269.99}
 {'item_name': 'EVGA GeForce GTX 1070 Ti FTW2 GAMING, 08G-P4-6775-RX, 8GB GDDR5, iCX - 9 Thermal Sensors & RGB LED G/P/M', 'item_number': '08G-P4-6775-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=08G-P4-6775-RX', 'value': 1.88, 'price': 489.99}
@@ -73,7 +75,6 @@
 {'item_name': 'EVGA SuperNOVA 550 G3, 80 Plus Gold 550W, Fully Modular, Eco Mode with New HDB Fan, 1 Year Warranty, Compact 150mm Size, Power Supply 220-G3-0550-RX', 'item_number': '220-G3-0550-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=220-G3-0550-RX', 'value': 0, 'price': 59.99}
 {'item_name': 'EVGA GeForce GTX 570', 'item_number': '012-P3-1570-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=012-P3-1570-RX', 'value': 0, 'price': 59.99}
 {'item_name': 'EVGA GeForce GT 730, 01G-P3-3730-RX, 1GB GDDR5, Low Profile, Single Slot', 'item_number': '01G-P3-3730-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-3730-RX', 'value': 0, 'price': 54.99}
-{'item_name': 'EVGA GeForce GTX 690', 'item_number': '04G-P4-2690-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-2690-RX', 'value': 0, 'price': 49.99}
 {'item_name': 'EVGA GeForce GT 730 4GB', 'item_number': '04G-P3-2739-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P3-2739-RX', 'value': 0, 'price': 49.99}
 {'item_name': 'EVGA GeForce GT 730 2GB (Low Profile)', 'item_number': '02G-P3-3733-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-3733-RX', 'value': 0, 'price': 49.99}
 {'item_name': 'EVGA GeForce GT 730 2GB', 'item_number': '02G-P3-1733-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-1733-RX', 'value': 0, 'price': 49.99}
