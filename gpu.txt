@@ -80,7 +80,6 @@
 {'item_name': 'EVGA GeForce 9800 GT HDMI', 'item_number': '01G-P3-N988-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-N988-RX', 'value': 0, 'price': 44.99}
 {'item_name': 'VGA,GT710,GDDR5,1G,VGA+HDMI+DVI-D', 'item_number': '01G-P3-3710-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-3710-RX', 'value': 0, 'price': 44.99}
 {'item_name': 'EVGA GeForce GT 720 2GB', 'item_number': '02G-P3-2724-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-2724-RX', 'value': 0, 'price': 43.99}
-{'item_name': 'EVGA GeForce GT 710, 02G-P3-3712-RX, 2GB GDDR5, Passive, Low Profile', 'item_number': '02G-P3-3712-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-3712-RX', 'value': 0, 'price': 39.99}
 {'item_name': 'EVGA GeForce GT 710 2GB (Single Slot, Dual DVI)', 'item_number': '02G-P3-2717-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-2717-RX', 'value': 0, 'price': 34.99}
 {'item_name': 'EVGA GeForce GT 710 2GB (Single Slot, Low Profile)', 'item_number': '02G-P3-2713-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-2713-RX', 'value': 0, 'price': 34.99}
 {'item_name': 'EVGA GeForce GT 710 2GB (Dual Slot, Passive)', 'item_number': '02G-P3-2712-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-2712-RX', 'value': 0, 'price': 34.99}
