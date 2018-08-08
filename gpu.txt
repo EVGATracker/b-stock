@@ -62,7 +62,6 @@
 {'price': 49.99, 'item_name': 'EVGA GeForce GT 730 2GB', 'item_number': '02G-P3-1733-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-1733-RX', 'value': 0}
 {'price': 49.99, 'item_name': 'EVGA GeForce GT 730 (Low Profile)', 'item_number': '01G-P3-2730-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-2730-RX', 'value': 0}
 {'price': 44.99, 'item_name': 'PSU 450W,B3,80PLS,6PCS,5YRS WNT', 'item_number': '220-B3-0450-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=220-B3-0450-RX', 'value': 0}
-{'price': 44.99, 'item_name': 'EVGA 500 BQ, 80+ BRONZE 500W, Semi Modular, FDB Fan, 1 Year Warranty, Power Supply 110-BQ-0500-RX', 'item_number': '110-BQ-0500-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=110-BQ-0500-RX', 'value': 0}
 {'price': 44.99, 'item_name': 'VGA,GT710,GDDR5,1G,VGA+HDMI+DVI-D', 'item_number': '01G-P3-3710-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-3710-RX', 'value': 0}
 {'price': 43.99, 'item_name': 'EVGA GeForce GT 720 2GB', 'item_number': '02G-P3-2724-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-2724-RX', 'value': 0}
 {'price': 39.99, 'item_name': 'EVGA 850 BQ, 80+ BRONZE 850W, Semi Modular, 1 Year Warranty, Includes FREE Power On Self Tester, Power Supply 110-BQ-0850-RX', 'item_number': '110-BQ-0850-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=110-BQ-0850-RX', 'value': 0}
