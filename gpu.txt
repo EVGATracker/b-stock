@@ -75,7 +75,6 @@
 {'price': 24.99, 'item_name': 'EVGA GeForce 210 DDR3', 'item_number': '512-P3-1311-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P3-1311-RX', 'value': 0}
 {'price': 24.99, 'item_name': 'EVGA GeForce 210 DDR3', 'item_number': '512-P3-1310-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P3-1310-RX', 'value': 0}
 {'price': 24.99, 'item_name': 'e-GeForce 8400 GS', 'item_number': '512-P3-1300-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P3-1300-RX', 'value': 0}
-{'price': 24.99, 'item_name': 'EVGA 450 B1, 80+ BRONZE 450W, 1 Year Warranty, Power Supply 100-B1-0450-RX', 'item_number': '100-B1-0450-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=100-B1-0450-RX', 'value': 0}
 {'price': 24.99, 'item_name': 'EVGA GeForce GT 730', 'item_number': '01G-P3-2731-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-2731-RX', 'value': 0}
 {'price': 24.99, 'item_name': 'EVGA GeForce 8400 GS', 'item_number': '01G-P3-1303-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-1303-RX', 'value': 0}
 {'price': 19.99, 'item_name': 'e-GeForce 6200 PCI', 'item_number': '512-P1-N402-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P1-N402-RX', 'value': 0}
