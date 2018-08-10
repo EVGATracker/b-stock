@@ -83,6 +83,7 @@
 {'price': 24.99, 'item_name': 'EVGA GeForce 210 DDR3', 'item_number': '512-P3-1311-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P3-1311-RX', 'value': 0}
 {'price': 24.99, 'item_name': 'EVGA GeForce 210 DDR3', 'item_number': '512-P3-1310-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P3-1310-RX', 'value': 0}
 {'price': 24.99, 'item_name': 'e-GeForce 8400 GS', 'item_number': '512-P3-1300-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P3-1300-RX', 'value': 0}
+{'price': 24.99, 'item_name': 'EVGA 430 W1, 80+ WHITE 430W, 1 Year Warranty, Power Supply 100-W1-0430-RX', 'item_number': '100-W1-0430-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=100-W1-0430-RX', 'value': 0}
 {'price': 24.99, 'item_name': 'EVGA GeForce GT 730', 'item_number': '01G-P3-2731-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-2731-RX', 'value': 0}
 {'price': 24.99, 'item_name': 'EVGA GeForce GTX 560 Ti FPB', 'item_number': '01G-P3-1561-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-1561-RX', 'value': 0}
 {'price': 24.99, 'item_name': 'EVGA GeForce 210 DDR3', 'item_number': '01G-P3-1313-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-1313-RX', 'value': 0}
