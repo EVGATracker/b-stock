@@ -1,5 +1,4 @@
 {'item_name': 'EVGA GeForce GTX 970 SSC GAMING ACX 2.0', 'value': 2.6, 'price': 199.99, 'item_number': '04G-P4-3979-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-3979-RX'}
-{'item_name': 'EVGA GeForce GTX 970 SSC GAMING ACX 2.0+', 'value': 2.6, 'price': 199.99, 'item_number': '04G-P4-3975-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-3975-RX'}
 {'item_name': 'EVGA GeForce GTX 970 GAMING ACX 2.0+', 'value': 2.6, 'price': 199.99, 'item_number': '04G-P4-3973-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-3973-RX'}
 {'item_name': 'EVGA GeForce GTX 970 SC GAMING ACX 2.0', 'value': 2.6, 'price': 199.99, 'item_number': '04G-P4-2974-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-2974-RX'}
 {'item_name': 'EVGA GeForce GTX 970 SC GAMING', 'value': 2.6, 'price': 199.99, 'item_number': '04G-P4-1972-RX', 'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-1972-RX'}
