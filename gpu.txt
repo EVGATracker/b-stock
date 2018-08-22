@@ -83,5 +83,6 @@
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P1-N402-RX', 'price': 19.99, 'value': 0, 'item_name': 'e-GeForce 6200 PCI', 'item_number': '512-P1-N402-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-2710-RX', 'price': 19.99, 'value': 0, 'item_name': 'EVGA GeForce GT 710 1GB (Dual Slot, Passive)', 'item_number': '01G-P3-2710-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-2616-RX', 'price': 19.99, 'value': 0, 'item_name': 'EVGA GeForce GT 610', 'item_number': '01G-P3-2616-RX'}
+{'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-1313-RX', 'price': 19.99, 'value': 0, 'item_name': 'EVGA GeForce 210 DDR3', 'item_number': '01G-P3-1313-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=100-W1-0600-RX', 'price': 18.99, 'value': 0, 'item_name': 'EVGA 600 W1, 80+ WHITE 600W, 1 Year Warranty, Power Supply 100-W1-0600-RX', 'item_number': '100-W1-0600-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=100-N1-0400-RX', 'price': 14.99, 'value': 0, 'item_name': 'EVGA 400 N1, 400W, 1 Year Warranty, Power Supply 100-N1-0400-RX', 'item_number': '100-N1-0400-RX'}
