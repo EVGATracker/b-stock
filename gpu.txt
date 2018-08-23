@@ -60,7 +60,6 @@
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=220-G3-0550-RX', 'price': 59.99, 'value': 0, 'item_name': 'EVGA SuperNOVA 550 G3, 80 Plus Gold 550W, Fully Modular, Eco Mode with New HDB Fan, 1 Year Warranty, Compact 150mm Size, Power Supply 220-G3-0550-RX', 'item_number': '220-G3-0550-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-3730-RX', 'price': 54.99, 'value': 0, 'item_name': 'EVGA GeForce GT 730, 01G-P3-3730-RX, 1GB GDDR5, Low Profile, Single Slot', 'item_number': '01G-P3-3730-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P3-2739-RX', 'price': 49.99, 'value': 0, 'item_name': 'EVGA GeForce GT 730 4GB', 'item_number': '04G-P3-2739-RX'}
-{'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-3733-RX', 'price': 49.99, 'value': 0, 'item_name': 'EVGA GeForce GT 730 2GB (Low Profile)', 'item_number': '02G-P3-3733-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=02G-P3-1733-RX', 'price': 49.99, 'value': 0, 'item_name': 'EVGA GeForce GT 730 2GB', 'item_number': '02G-P3-1733-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-2730-RX', 'price': 49.99, 'value': 0, 'item_name': 'EVGA GeForce GT 730 (Low Profile)', 'item_number': '01G-P3-2730-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=220-B3-0450-RX', 'price': 44.99, 'value': 0, 'item_name': 'PSU 450W,B3,80PLS,6PCS,5YRS WNT', 'item_number': '220-B3-0450-RX'}
