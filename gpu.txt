@@ -3,7 +3,6 @@
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-2974-RX', 'price': 199.99, 'value': 2.6, 'item_name': 'EVGA GeForce GTX 970 SC GAMING ACX 2.0', 'item_number': '04G-P4-2974-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-1972-RX', 'price': 199.99, 'value': 2.6, 'item_name': 'EVGA GeForce GTX 970 SC GAMING', 'item_number': '04G-P4-1972-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=03G-P4-6367-RX', 'price': 249.99, 'value': 2.32, 'item_name': 'EVGA GeForce GTX 1060 FTW+ GAMING, 03G-P4-6367-RX, 3GB GDDR5, ACX 3.0 & LED', 'item_number': '03G-P4-6367-RX'}
-{'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=04G-P4-3978-RX', 'price': 229.99, 'value': 2.26, 'item_name': 'EVGA GeForce GTX 970 FTW+ GAMING ACX 2.0+', 'item_number': '04G-P4-3978-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=06G-P4-5161-RX', 'price': 259.99, 'value': 2.23, 'item_name': 'EVGA GeForce GTX 1060 GAMING, 06G-P4-5161-RX, 6GB GDDR5', 'item_number': '06G-P4-5161-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=06G-P4-6264-RX', 'price': 279.99, 'value': 2.07, 'item_name': 'EVGA GeForce GTX 1060 SSC GAMING, 06G-P4-6264-RX, 6GB GDDR5, ACX 3.0 & LED', 'item_number': '06G-P4-6264-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=08G-P4-6181-RX', 'price': 499.99, 'value': 2.06, 'item_name': 'EVGA GeForce GTX 1080 GAMING, 08G-P4-6181-RX, 8GB GDDR5X, ACX 3.0 & LED', 'item_number': '08G-P4-6181-RX'}
