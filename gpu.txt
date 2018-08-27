@@ -28,7 +28,6 @@
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=11G-P4-6393-RX', 'price': 839.99, 'value': 1.58, 'item_name': 'EVGA GeForce GTX 1080 Ti SC Black Edition GAMING, 11G-P4-6393-RX, 11GB GDDR5X, iCX Cooler & LED', 'item_number': '11G-P4-6393-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=11G-P4-6694-RX', 'price': 849.99, 'value': 1.56, 'item_name': 'EVGA GeForce GTX 1080 Ti FTW3 DT GAMING, 11G-P4-6694-RX, 11GB GDDR5X, iCX Technology - 9 Thermal Sensors & RGB LED G/P/M', 'item_number': '11G-P4-6694-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=06G-P4-4992-RX', 'price': 499.99, 'value': 1.56, 'item_name': 'EVGA GeForce GTX 980 Ti SC GAMING', 'item_number': '06G-P4-4992-RX'}
-{'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=12G-P4-2990-RX', 'price': 599.99, 'value': 1.3, 'item_name': 'EVGA GeForce GTX TITAN X GAMING', 'item_number': '12G-P4-2990-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=12G-P4-3990-RX', 'price': 1299.99, 'value': 0, 'item_name': 'EVGA GeForce GTX TITAN Z', 'item_number': '12G-P4-3990-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=220-T2-1600-RX', 'price': 499.99, 'value': 0, 'item_name': 'EVGA SuperNOVA 1600 T2, 80+ TITANIUM 1600W, Fully Modular, EVGA ECO Mode, 1 Year Warranty, Power Supply 220-T2-1600-RX', 'item_number': '220-T2-1600-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=131-HE-E995-RX', 'price': 209.99, 'value': 0, 'item_name': 'EVGA X99 Micro', 'item_number': '131-HE-E995-RX'}
