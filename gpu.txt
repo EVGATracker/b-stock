@@ -74,7 +74,6 @@
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P3-1311-RX', 'price': 24.99, 'value': 0, 'item_name': 'EVGA GeForce 210 DDR3', 'item_number': '512-P3-1311-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P3-1310-RX', 'price': 24.99, 'value': 0, 'item_name': 'EVGA GeForce 210 DDR3', 'item_number': '512-P3-1310-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=512-P3-1300-RX', 'price': 24.99, 'value': 0, 'item_name': 'e-GeForce 8400 GS', 'item_number': '512-P3-1300-RX'}
-{'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-2731-RX', 'price': 24.99, 'value': 0, 'item_name': 'EVGA GeForce GT 730', 'item_number': '01G-P3-2731-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-1313-RX', 'price': 24.99, 'value': 0, 'item_name': 'EVGA GeForce 210 DDR3', 'item_number': '01G-P3-1313-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-1312-RX', 'price': 24.99, 'value': 0, 'item_name': 'EVGA GeForce 210 DDR3', 'item_number': '01G-P3-1312-RX'}
 {'price_url': 'https://www.evga.com/products/PicDialog.aspx?pn=01G-P3-1303-RX', 'price': 24.99, 'value': 0, 'item_name': 'EVGA GeForce 8400 GS', 'item_number': '01G-P3-1303-RX'}
